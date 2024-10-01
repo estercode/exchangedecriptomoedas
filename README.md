@@ -7,7 +7,7 @@
 - Ethereum
 - Ripple
 ## Funcionalidades 
--### A plataforma conta com diversas funcionalidades
+### A plataforma conta com diversas funcionalidades
 ### Menu:
 - Cadastro de clientes
 - Login na conta
