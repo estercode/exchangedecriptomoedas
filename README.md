@@ -23,6 +23,6 @@
 - Programa criado em C
 - Para compilar é necessário que uma IDE compile códigos em C com as bibliotecas ``string.h``. Para executar é necessário utilizar o comando ``gcc *.c && ./a.out``
 ## Nome dos alunos
-- Ester Pereira Dos S Nascimento RA: 22.123.110-3
-- Victor Pietoso Frison RA: 22.123.102-0
+- Ester Pereira Dos S Nascimento 
+- Victor Pietoso Frison 
 
